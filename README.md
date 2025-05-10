@@ -3,5 +3,7 @@ This project allows users to enter natural language questions and receive SQL qu
 
 
 Model - https://huggingface.co/gaussalgo/T5-LM-Large-text2sql-spider
+
+
 Data Set - https://www.kaggle.com/datasets/javigallego/stats-nba
 
